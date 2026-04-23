@@ -19,6 +19,7 @@
 |---|---|---|
 | `bifrost/CODEX.md` | [pending description] | 2026-04-23 |
 | `bifrost/skills/github/github-read-file/SKILL.md` | [pending description] | 2026-04-23 |
+| `bifrost/skills/github/github-read-diff/SKILL.md` | [pending description] | 2026-04-23 |
 | `bifrost/skills/wiki/wiki-index-rebuild/SKILL.md` | [pending description] | 2026-04-23 |
 
 ## 00 Inbox
@@ -26,6 +27,8 @@
 | File | Description | Updated |
 |---|---|---|
 | `sanctum/00 Inbox/github-read-file-2026-04-23.md` | [pending description] | 2026-04-23 |
+| `sanctum/00 Inbox/github-read-diff-2026-04-23.md` | [pending description] | 2026-04-23 |
+| `sanctum/00 Inbox/github-read-diff-2026-04-23-b.md` | [pending description] | 2026-04-23 |
 
 ## 10 Knowledge
 

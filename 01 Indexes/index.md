@@ -26,9 +26,9 @@
 
 | File | Description | Updated |
 |---|---|---|
-| `sanctum/00 Inbox/github-read-file-2026-04-23.md` | [pending description] | 2026-04-23 |
-| `sanctum/00 Inbox/github-read-diff-2026-04-23.md` | [pending description] | 2026-04-23 |
-| `sanctum/00 Inbox/github-read-diff-2026-04-23-b.md` | [pending description] | 2026-04-23 |
+| `sanctum/00 Inbox/github-read-file-2026-04-23.md` | [removed 2026-04-23] | 2026-04-23 |
+| `sanctum/00 Inbox/github-read-diff-2026-04-23.md` | [removed 2026-04-23] | 2026-04-23 |
+| `sanctum/00 Inbox/github-read-diff-2026-04-23-b.md` | [removed 2026-04-23] | 2026-04-23 |
 
 ## 10 Knowledge
 

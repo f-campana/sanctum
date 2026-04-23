@@ -259,8 +259,7 @@ Use:       Filter tags, toggle buttons. Never on primary CTAs.
   `cubic-bezier(0.0, 0.0, 0.2, 1)` — instant start, hard deceleration.
   Never `ease-in-out` (too organic) or `ease` (too gentle).
 - Duration ceiling: 300ms. Nothing in this rune animates longer than 300ms.
-- Hover states: no animation. Border weight change only (2px → 3px on card hover).
-  Colour transitions if any: 120ms linear. No transform on hover.
+- Hover states: no animation. Colour transitions only — 120ms linear. No border weight change. No transform on hover.
 - What must never animate: border-radius (it is always 0), background gradients
   (they do not exist), font-weight (layout shift).
 

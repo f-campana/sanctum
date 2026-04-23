@@ -36,7 +36,8 @@
 | `sanctum/00 Inbox/github-read-file-2026-04-23.md` | [removed 2026-04-23] | 2026-04-23 |
 | `sanctum/00 Inbox/github-read-diff-2026-04-23.md` | [removed 2026-04-23] | 2026-04-23 |
 | `sanctum/00 Inbox/github-read-diff-2026-04-23-b.md` | [removed 2026-04-23] | 2026-04-23 |
-| `sanctum/00 Inbox/design-validator-2026-04-24.md` | [pending description] | 2026-04-24 |
+| `sanctum/00 Inbox/design-validator-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
+| `sanctum/00 Inbox/design-builder-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
 
 ## 10 Knowledge
 
@@ -50,6 +51,8 @@
 | File | Description | Updated |
 |---|---|---|
 | `sanctum/40 Sources/Design/sessions/build-correction-session-2026-04-23.md` | [pending description] | 2026-04-23 |
+| `sanctum/40 Sources/Design/sessions/design-builder-run-2026-04-24.md` | [pending description] | 2026-04-24 |
+| `sanctum/40 Sources/Design/sessions/design-validator-run-2026-04-24.md` | [pending description] | 2026-04-24 |
 
 ## 99 Templates
 

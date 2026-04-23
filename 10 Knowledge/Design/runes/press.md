@@ -376,7 +376,7 @@ nav {
   padding: 20px 24px;
   transition: border-color 120ms linear;
 }
-.card:hover { border-width: 3px; padding: 19px 23px; } /* compensate for extra 1px */
+.card:hover { border-color: var(--pr-text); }
 
 /* Section card (on --pr-surface-mid background) */
 .card-section {

@@ -4,3 +4,4 @@
 ## [2026-04-23] wiki/index-rebuild | [11 added, 1 modified, 0 removed] · session: phase-0-templates-and-skills
 ## [2026-04-23] wiki/index-rebuild | [3 added, 0 modified, 0 removed] · session: phase-0-github-read-diff
 ## [2026-04-23] wiki/index-rebuild | [0 added, 0 modified, 3 removed] · session: phase-0-inbox-clear
+## [2026-04-24] wiki/index-rebuild | [1 added, 3 modified, 0 removed] · session: phase-1-runestone-overflow-fix

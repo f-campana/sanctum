@@ -461,6 +461,7 @@ following are present:
 - [ ] border-radius animated → it is always 0, nothing to animate
 - [ ] Body copy in uppercase → uppercase is reserved for labels, tags, and nav only
 - [ ] Multiple font weights of DM Sans beyond 300 / 400 / 500 → remove heavier weights
+- [ ] Display text clamp value exceeding 4vw for a single-word headline → reduce to clamp(32px, 4vw, 64px) and add overflow: hidden to the container
 
 ## 11 — Routing
 

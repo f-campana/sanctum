@@ -1,17 +1,17 @@
 ---
 type: session-summary
-date: 2026-04-23
+date: 2026-04-24
 thread: claude
 project: sanctum-bifrost
 status: ready-for-ingest
 ---
 
-# Session Summary — Build Sequence Correction + Phase 0 Completion
+# Session Summary — Phase 0/1 Implementation Loop and Runestone Transition
 
-**Date:** 2026-04-22 → 2026-04-23
+**Date:** 2026-04-23 → 2026-04-24
 **Thread:** Claude (this conversation)
 **Duration:** Extended session (~8 hours, continuation of 2026-04-22 session)
-**Target location:** `Sanctum/40 Sources/Design/sessions/build-correction-session-2026-04-23.md`
+**Target location:** `Sanctum/40 Sources/Design/sessions/phase-0-1-implementation-loop-2026-04-24.md`
 
 ---
 
@@ -91,7 +91,18 @@ not incorrectly.
 | `github-read-file/SKILL.md` | `bifrost/skills/github/github-read-file/SKILL.md` | ready to copy |
 | `wiki-index-rebuild/SKILL.md` | `bifrost/skills/wiki/wiki-index-rebuild/SKILL.md` | ready to copy |
 | `system-glossary-patched.md` | `sanctum/10 Knowledge/Concepts/system-glossary.md` | replaces existing |
-| This file | `sanctum/40 Sources/sessions/build-correction-session-2026-04-23.md` | pending copy |
+| This file | `sanctum/40 Sources/Design/sessions/phase-0-1-implementation-loop-2026-04-24.md` | pending copy |
+
+### Phase 1 artifacts
+
+| Artifact | Target path | Status |
+|---|---|---|
+| `DESIGN_RUNESTONE.md` | `runestone/DESIGN_RUNESTONE.md` | committed |
+| `index.html` | `runestone/index.html` | committed |
+| `src/content.config.ts` | `runestone/src/content.config.ts` | committed |
+| `styled [slug].astro` | `runestone/src/pages/runes/[slug].astro` | committed |
+| `press.css` | `runestone/public/styles/press.css` | committed |
+| `PressLayout.astro` | `runestone/src/components/PressLayout.astro` | committed |
 
 ---
 
@@ -110,7 +121,7 @@ session.
 
 ---
 
-## Open items — not blocking Phase 0 close
+## Open items — not blocking Phase 0/1 closure
 
 - **Press rune gaps (patch 1.0.1):** Input/form element specs and route-change
   transition still undefined. Address before first design/builder run on
@@ -120,6 +131,8 @@ session.
 - **Remaining system-spec version cleanup:** system-spec-v0.3.md still references
   Ropau rune names in a few examples (log entry format, conventions table token
   example). Low priority — does not affect Phase 0 operations.
+- **Raw transcripts:** copy to `sanctum/40 Sources/sessions/transcripts/` as
+  immutable provenance records, separate from session summaries.
 
 ---
 

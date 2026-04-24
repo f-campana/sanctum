@@ -61,7 +61,8 @@
 
 | File | Description | Updated |
 |---|---|---|
-| `sanctum/40 Sources/Design/sessions/build-correction-session-2026-04-23.md` | [pending description] | 2026-04-23 |
+| `sanctum/40 Sources/Design/sessions/build-correction-session-2026-04-23.md` | [removed 2026-04-24] | 2026-04-24 |
+| `sanctum/40 Sources/Design/sessions/phase-0-1-implementation-loop-2026-04-24.md` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/design-curator-run-2026-04-23.md` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/design-builder-run-2026-04-24.md` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/design-validator-run-2026-04-24.md` | [pending description] | 2026-04-24 |

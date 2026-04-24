@@ -76,6 +76,32 @@
 | `sanctum/40 Sources/Design/sessions/runestone-static-proof-2026-04-24.html` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/frontend-component-RadarRow-2026-04-24.md` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/frontend-component-RuneHero-2026-04-24.md` | [pending description] | 2026-04-24 |
+| `sanctum/40 Sources/React/Concepts/React - Component Model, Props, and State.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Concepts/React - Composition, Lifting State, and Controlled vs Uncontrolled.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Concepts/React - Concurrent React, Suspense, and Transitions.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Concepts/React - Hooks, Effects, and Closures.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Concepts/React - Memoization and Performance Tradeoffs.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Concepts/React - Reconciliation, Keys, and Fiber.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Concepts/React - Rendering and Re-rendering.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Concepts/React - Server Components and Internals.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Lessons/React - Lesson 01 - Foundations - Hooks, Composition, State, and Performance Basics.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Lessons/React - Lesson 02 - Rendering, Closures, and Re-rendering.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Lessons/React - Lesson 03 - Reconciliation, Keys, and Fiber.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Lessons/React - Lesson 04 - Advanced Patterns at Scale.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Lessons/React - Lesson 05 - Performance Beyond Memo.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Lessons/React - Lesson 06 - Concurrent React, Suspense, and Transitions.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/Lessons/React - Lesson 07 - Server Components and React Internals.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/React/react-map.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/TypeScript/Concepts/TypeScript - Compiler and API Design.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/TypeScript/Concepts/TypeScript - Narrowing, Discriminated Unions, and Exhaustiveness.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/TypeScript/Concepts/TypeScript - Runtime Boundaries and Safety.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/TypeScript/Concepts/TypeScript - Type System Fundamentals.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/TypeScript/Concepts/TypeScript - Type-Level Programming.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/TypeScript/Lessons/TypeScript - Lesson 01 - Foundations - Erasure, Structural Typing, and Narrowing.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/TypeScript/Lessons/TypeScript - Lesson 02 - Generics, keyof, and Utility Types.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/TypeScript/Lessons/TypeScript - Lesson 03 - Advanced Type Programming - Conditional Types, infer, Variance, and Template Literals.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/TypeScript/Lessons/TypeScript - Lesson 04 - Staff and Principal - Branding, Validation, Compiler Boundaries, and API Design.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/TypeScript/typescript-map.md` | [pending description] | 2026-04-25 |
 
 ## 99 Templates
 

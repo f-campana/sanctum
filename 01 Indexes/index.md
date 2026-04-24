@@ -40,6 +40,8 @@
 | `runestone/.gitignore` | [pending description] | 2026-04-24 |
 | `runestone/README.md` | [pending description] | 2026-04-24 |
 | `runestone/src/content.config.ts` | [pending description] | 2026-04-24 |
+| `runestone/src/components/RadarRow.astro` | [pending description] | 2026-04-24 |
+| `runestone/src/pages/runes/[slug].astro` | [pending description] | 2026-04-24 |
 
 ## 00 Inbox
 
@@ -51,6 +53,7 @@
 | `sanctum/00 Inbox/design-validator-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
 | `sanctum/00 Inbox/design-builder-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
 | `sanctum/00 Inbox/design-curator-2026-04-23.md` | [removed 2026-04-24] | 2026-04-24 |
+| `sanctum/00 Inbox/frontend-component-RadarRow-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
 
 ## 10 Knowledge
 
@@ -69,6 +72,7 @@
 | `sanctum/40 Sources/Design/sessions/design-builder-run-2026-04-24.md` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/design-validator-run-2026-04-24.md` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/runestone-static-proof-2026-04-24.html` | [pending description] | 2026-04-24 |
+| `sanctum/40 Sources/Design/sessions/frontend-component-RadarRow-2026-04-24.md` | [pending description] | 2026-04-24 |
 
 ## 99 Templates
 

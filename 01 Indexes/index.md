@@ -37,6 +37,7 @@
 | `runestone/package.json` | [pending description] | 2026-04-24 |
 | `runestone/.gitignore` | [pending description] | 2026-04-24 |
 | `runestone/README.md` | [pending description] | 2026-04-24 |
+| `runestone/src/content.config.ts` | [pending description] | 2026-04-24 |
 
 ## 00 Inbox
 

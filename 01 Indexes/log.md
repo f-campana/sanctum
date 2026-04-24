@@ -9,3 +9,4 @@
 ## [2026-04-24] wiki/index-rebuild | [1 added, 1 modified, 1 removed] · session: phase-1-gitignore-obsidian-inbox-clear
 ## [2026-04-24] wiki/index-rebuild | [0 added, 1 modified, 0 removed] · session: phase-1-press-card-hover-fix
 ## [2026-04-24] wiki/index-rebuild | [1 added, 3 modified, 1 removed] · session: phase-1-astro-scaffold-cleanup
+## [2026-04-24] wiki/index-rebuild | [1 added, 1 modified, 0 removed] · session: phase-1-astro-content-collection

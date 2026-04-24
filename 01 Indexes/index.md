@@ -33,7 +33,10 @@
 | File | Description | Updated |
 |---|---|---|
 | `runestone/DESIGN_RUNESTONE.md` | [pending description] | 2026-04-24 |
-| `runestone/index.html` | [pending description] | 2026-04-24 |
+| `runestone/index.html` | [removed 2026-04-24] | 2026-04-24 |
+| `runestone/package.json` | [pending description] | 2026-04-24 |
+| `runestone/.gitignore` | [pending description] | 2026-04-24 |
+| `runestone/README.md` | [pending description] | 2026-04-24 |
 
 ## 00 Inbox
 
@@ -61,6 +64,7 @@
 | `sanctum/40 Sources/Design/sessions/design-curator-run-2026-04-23.md` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/design-builder-run-2026-04-24.md` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/design-validator-run-2026-04-24.md` | [pending description] | 2026-04-24 |
+| `sanctum/40 Sources/Design/sessions/runestone-static-proof-2026-04-24.html` | [pending description] | 2026-04-24 |
 
 ## 99 Templates
 

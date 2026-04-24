@@ -13,3 +13,4 @@
 ## [2026-04-24] wiki/index-rebuild | [1 added, 0 modified, 1 removed] · session: phase-0-1-implementation-loop-2026-04-24
 ## [2026-04-24] wiki/index-rebuild | [2 added, 1 modified, 0 removed] · session: phase-1-frontend-component-skills
 ## [2026-04-24] wiki/index-rebuild | [2 added, 1 modified, 1 removed] · session: frontend-component-RadarRow-promote-wire
+## [2026-04-24] wiki/index-rebuild | [2 added, 3 modified, 1 removed] · session: frontend-component-RuneHero-promote-wire-pnpm

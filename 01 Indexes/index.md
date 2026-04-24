@@ -23,7 +23,7 @@
 
 | File | Description | Updated |
 |---|---|---|
-| `bifrost/CODEX.md` | [pending description] | 2026-04-23 |
+| `bifrost/CODEX.md` | [pending description] | 2026-04-24 |
 | `bifrost/skills/frontend/frontend-component/SKILL.md` | [pending description] | 2026-04-24 |
 | `bifrost/skills/frontend/frontend-island/SKILL.md` | [pending description] | 2026-04-24 |
 | `bifrost/skills/github/github-read-file/SKILL.md` | [pending description] | 2026-04-23 |
@@ -41,6 +41,7 @@
 | `runestone/README.md` | [pending description] | 2026-04-24 |
 | `runestone/src/content.config.ts` | [pending description] | 2026-04-24 |
 | `runestone/src/components/RadarRow.astro` | [pending description] | 2026-04-24 |
+| `runestone/src/components/RuneHero.astro` | [pending description] | 2026-04-24 |
 | `runestone/src/pages/runes/[slug].astro` | [pending description] | 2026-04-24 |
 
 ## 00 Inbox
@@ -54,6 +55,7 @@
 | `sanctum/00 Inbox/design-builder-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
 | `sanctum/00 Inbox/design-curator-2026-04-23.md` | [removed 2026-04-24] | 2026-04-24 |
 | `sanctum/00 Inbox/frontend-component-RadarRow-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
+| `sanctum/00 Inbox/frontend-component-RuneHero-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
 
 ## 10 Knowledge
 
@@ -73,6 +75,7 @@
 | `sanctum/40 Sources/Design/sessions/design-validator-run-2026-04-24.md` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/runestone-static-proof-2026-04-24.html` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/frontend-component-RadarRow-2026-04-24.md` | [pending description] | 2026-04-24 |
+| `sanctum/40 Sources/Design/sessions/frontend-component-RuneHero-2026-04-24.md` | [pending description] | 2026-04-24 |
 
 ## 99 Templates
 

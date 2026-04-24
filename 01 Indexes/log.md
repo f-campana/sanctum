@@ -15,3 +15,4 @@
 ## [2026-04-24] wiki/index-rebuild | [2 added, 1 modified, 1 removed] · session: frontend-component-RadarRow-promote-wire
 ## [2026-04-24] wiki/index-rebuild | [2 added, 3 modified, 1 removed] · session: frontend-component-RuneHero-promote-wire-pnpm
 ## [2026-04-25] wiki/index-rebuild | [26 added, 0 modified, 0 removed] · session: source-ingest-react-typescript
+## [2026-04-25] wiki/index-rebuild | [2 added, 0 modified, 0 removed] · session: source-ingest-accessibility

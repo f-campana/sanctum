@@ -102,6 +102,8 @@
 | `sanctum/40 Sources/TypeScript/Lessons/TypeScript - Lesson 03 - Advanced Type Programming - Conditional Types, infer, Variance, and Template Literals.md` | [pending description] | 2026-04-25 |
 | `sanctum/40 Sources/TypeScript/Lessons/TypeScript - Lesson 04 - Staff and Principal - Branding, Validation, Compiler Boundaries, and API Design.md` | [pending description] | 2026-04-25 |
 | `sanctum/40 Sources/TypeScript/typescript-map.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/Accessibility/wai-aria-authoring-practices-guide.md` | [pending description] | 2026-04-25 |
+| `sanctum/40 Sources/Accessibility/adobe-react-aria-styling.md` | [pending description] | 2026-04-25 |
 
 ## 99 Templates
 

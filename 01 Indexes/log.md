@@ -23,3 +23,4 @@
 ## [2026-04-25] wiki/index-rebuild | [1 added, 1 modified, 0 removed] · session: phase-1-tailwind-install
 ## [2026-04-26] wiki/index-rebuild | [1 added, 2 modified, 0 removed] · session: phase-1-component-architecture-adr
 ## [2026-04-26] wiki/index-rebuild | [3 added, 0 modified, 4 removed] · session: phase-1-pressbutton-v1-archive
+## [2026-04-26] wiki/index-rebuild | [0 added, 1 modified, 0 removed] · session: phase-1-codex-component-architecture-rule

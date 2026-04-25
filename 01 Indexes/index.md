@@ -29,8 +29,8 @@
 | `bifrost/skills/github/github-read-file/SKILL.md` | [pending description] | 2026-04-23 |
 | `bifrost/skills/github/github-read-diff/SKILL.md` | [pending description] | 2026-04-23 |
 | `bifrost/skills/typescript/typescript-component/SKILL.md` | [pending description] | 2026-04-25 |
-| `bifrost/skills/react/react-component/SKILL.md` | [pending description] | 2026-04-25 |
-| `bifrost/skills/accessibility/accessibility-component/SKILL.md` | [pending description] | 2026-04-25 |
+| `bifrost/skills/react/react-component/SKILL.md` | [pending description] | 2026-04-26 |
+| `bifrost/skills/accessibility/accessibility-component/SKILL.md` | [pending description] | 2026-04-26 |
 | `bifrost/skills/wiki/wiki-index-rebuild/SKILL.md` | [pending description] | 2026-04-23 |
 
 ## Runestone
@@ -68,6 +68,7 @@
 
 | File | Description | Updated |
 |---|---|---|
+| `sanctum/10 Knowledge/Concepts/press-component-architecture-adr.md` | [pending description] | 2026-04-26 |
 | `sanctum/10 Knowledge/Concepts/system-glossary.md` | [pending description] | 2026-04-23 |
 | `sanctum/10 Knowledge/Design/runes/press.md` | [pending description] | 2026-04-25 |
 

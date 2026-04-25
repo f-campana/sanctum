@@ -45,7 +45,9 @@
 | `runestone/src/content.config.ts` | [pending description] | 2026-04-24 |
 | `runestone/src/components/RadarRow.astro` | [pending description] | 2026-04-24 |
 | `runestone/src/components/RuneHero.astro` | [pending description] | 2026-04-24 |
+| `runestone/src/components/PressLayout.astro` | [pending description] | 2026-04-25 |
 | `runestone/src/pages/runes/[slug].astro` | [pending description] | 2026-04-24 |
+| `runestone/src/styles/press-tailwind.css` | [pending description] | 2026-04-25 |
 
 ## 00 Inbox
 
@@ -59,7 +61,7 @@
 | `sanctum/00 Inbox/design-curator-2026-04-23.md` | [removed 2026-04-24] | 2026-04-24 |
 | `sanctum/00 Inbox/frontend-component-RadarRow-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
 | `sanctum/00 Inbox/frontend-component-RuneHero-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
-| `sanctum/00 Inbox/press-tailwind-adapter-report-2026-04-25.md` | [pending description] | 2026-04-25 |
+| `sanctum/00 Inbox/press-tailwind-adapter-report-2026-04-25.md` | [removed 2026-04-25] | 2026-04-25 |
 
 ## 10 Knowledge
 
@@ -80,6 +82,7 @@
 | `sanctum/40 Sources/Design/sessions/runestone-static-proof-2026-04-24.html` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/frontend-component-RadarRow-2026-04-24.md` | [pending description] | 2026-04-24 |
 | `sanctum/40 Sources/Design/sessions/frontend-component-RuneHero-2026-04-24.md` | [pending description] | 2026-04-24 |
+| `sanctum/40 Sources/Design/sessions/press-tailwind-adapter-report-2026-04-25.md` | [pending description] | 2026-04-25 |
 | `sanctum/40 Sources/React/Concepts/React - Component Model, Props, and State.md` | [pending description] | 2026-04-25 |
 | `sanctum/40 Sources/React/Concepts/React - Composition, Lifting State, and Controlled vs Uncontrolled.md` | [pending description] | 2026-04-25 |
 | `sanctum/40 Sources/React/Concepts/React - Concurrent React, Suspense, and Transitions.md` | [pending description] | 2026-04-25 |

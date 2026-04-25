@@ -19,3 +19,4 @@
 ## [2026-04-25] wiki/index-rebuild | [1 added, 0 modified, 0 removed] · session: press-tailwind-adapter-research
 ## [2026-04-25] wiki/index-rebuild | [0 added, 2 modified, 0 removed] · session: press-semantic-aliases-approved
 ## [2026-04-25] wiki/index-rebuild | [3 added, 0 modified, 0 removed] · session: phase-1-typescript-react-accessibility-skills
+## [2026-04-25] wiki/index-rebuild | [2 added, 1 modified, 1 removed] · session: press-tailwind-adapter

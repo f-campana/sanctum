@@ -34,7 +34,7 @@
 
 | File | Description | Updated |
 |---|---|---|
-| `runestone/DESIGN_RUNESTONE.md` | [pending description] | 2026-04-24 |
+| `runestone/DESIGN_RUNESTONE.md` | [pending description] | 2026-04-25 |
 | `runestone/index.html` | [removed 2026-04-24] | 2026-04-24 |
 | `runestone/package.json` | [pending description] | 2026-04-24 |
 | `runestone/.gitignore` | [pending description] | 2026-04-24 |
@@ -56,13 +56,14 @@
 | `sanctum/00 Inbox/design-curator-2026-04-23.md` | [removed 2026-04-24] | 2026-04-24 |
 | `sanctum/00 Inbox/frontend-component-RadarRow-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
 | `sanctum/00 Inbox/frontend-component-RuneHero-2026-04-24.md` | [removed 2026-04-24] | 2026-04-24 |
+| `sanctum/00 Inbox/press-tailwind-adapter-report-2026-04-25.md` | [pending description] | 2026-04-25 |
 
 ## 10 Knowledge
 
 | File | Description | Updated |
 |---|---|---|
 | `sanctum/10 Knowledge/Concepts/system-glossary.md` | [pending description] | 2026-04-23 |
-| `sanctum/10 Knowledge/Design/runes/press.md` | [pending description] | 2026-04-24 |
+| `sanctum/10 Knowledge/Design/runes/press.md` | [pending description] | 2026-04-25 |
 
 ## 40 Sources
 

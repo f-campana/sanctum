@@ -146,6 +146,25 @@ All tokens use the `--pr-` namespace prefix.
 }
 ```
 
+### Semantic aliases
+
+These tokens extend the base canvas for component-level and Tailwind adapter use.
+They are part of the Press Rune and carry the same inviolable weight.
+
+```css
+--pr-radius-control:    0px;
+--pr-focus-ring:        var(--pr-orange);
+--pr-focus-ring-soft:   var(--pr-orange-dim);
+--pr-structure:         var(--pr-orange);
+--pr-foreground-subtle: var(--pr-text-3);
+```
+
+- `--pr-radius-control` locks control geometry to the rune's zero-radius rule.
+- `--pr-focus-ring` defines the hard focus indicator for interactive elements.
+- `--pr-focus-ring-soft` provides the softer focus halo where layered rings are needed.
+- `--pr-structure` names the orange used as load-bearing interface structure.
+- `--pr-foreground-subtle` gives tertiary metadata text a semantic foreground role.
+
 **Colour role rules:**
 - `--pr-orange` is used for: nav background, primary CTA background, active filter
   fill, section accent left-border (4px), active nav underline. Never for: text

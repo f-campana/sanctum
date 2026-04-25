@@ -39,13 +39,14 @@
 |---|---|---|
 | `runestone/DESIGN_RUNESTONE.md` | [pending description] | 2026-04-25 |
 | `runestone/index.html` | [removed 2026-04-24] | 2026-04-24 |
-| `runestone/package.json` | [pending description] | 2026-04-24 |
+| `runestone/package.json` | [pending description] | 2026-04-25 |
 | `runestone/.gitignore` | [pending description] | 2026-04-24 |
 | `runestone/README.md` | [pending description] | 2026-04-24 |
 | `runestone/src/content.config.ts` | [pending description] | 2026-04-24 |
 | `runestone/src/components/RadarRow.astro` | [pending description] | 2026-04-24 |
 | `runestone/src/components/RuneHero.astro` | [pending description] | 2026-04-24 |
 | `runestone/src/components/PressLayout.astro` | [pending description] | 2026-04-25 |
+| `runestone/astro.config.mjs` | [pending description] | 2026-04-25 |
 | `runestone/src/pages/runes/[slug].astro` | [pending description] | 2026-04-24 |
 | `runestone/src/styles/press-tailwind.css` | [pending description] | 2026-04-25 |
 

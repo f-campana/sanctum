@@ -28,6 +28,9 @@
 | `bifrost/skills/frontend/frontend-island/SKILL.md` | [pending description] | 2026-04-24 |
 | `bifrost/skills/github/github-read-file/SKILL.md` | [pending description] | 2026-04-23 |
 | `bifrost/skills/github/github-read-diff/SKILL.md` | [pending description] | 2026-04-23 |
+| `bifrost/skills/typescript/typescript-component/SKILL.md` | [pending description] | 2026-04-25 |
+| `bifrost/skills/react/react-component/SKILL.md` | [pending description] | 2026-04-25 |
+| `bifrost/skills/accessibility/accessibility-component/SKILL.md` | [pending description] | 2026-04-25 |
 | `bifrost/skills/wiki/wiki-index-rebuild/SKILL.md` | [pending description] | 2026-04-23 |
 
 ## Runestone

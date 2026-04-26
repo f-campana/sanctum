@@ -480,6 +480,7 @@ following are present:
 - [ ] Body copy in uppercase → uppercase is reserved for labels, tags, and nav only
 - [ ] Multiple font weights of DM Sans beyond 300 / 400 / 500 → remove heavier weights
 - [ ] Display text clamp value exceeding 4vw for a single-word headline → reduce to clamp(32px, 4vw, 64px) and add overflow: hidden to the container
+- [ ] Press CSS reset (* { padding: 0; margin: 0 }) placed outside @layer base → wrap in @layer base so Tailwind utilities override it correctly
 
 ## 11 — Routing
 

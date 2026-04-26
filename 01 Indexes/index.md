@@ -24,7 +24,7 @@
 | File | Description | Updated |
 |---|---|---|
 | `bifrost/CODEX.md` | [pending description] | 2026-04-26 |
-| `bifrost/skills/frontend/frontend-component/SKILL.md` | [pending description] | 2026-04-24 |
+| `bifrost/skills/frontend/frontend-component/SKILL.md` | [pending description] | 2026-04-26 |
 | `bifrost/skills/frontend/frontend-island/SKILL.md` | [pending description] | 2026-04-24 |
 | `bifrost/skills/github/github-read-file/SKILL.md` | [pending description] | 2026-04-23 |
 | `bifrost/skills/github/github-read-diff/SKILL.md` | [pending description] | 2026-04-23 |

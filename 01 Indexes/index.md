@@ -41,7 +41,7 @@
 | `runestone/index.html` | [removed 2026-04-24] | 2026-04-24 |
 | `runestone/package.json` | [pending description] | 2026-04-26 |
 | `runestone/tsconfig.json` | [pending description] | 2026-04-26 |
-| `runestone/.gitignore` | [pending description] | 2026-04-24 |
+| `runestone/.gitignore` | [pending description] | 2026-04-26 |
 | `runestone/README.md` | [pending description] | 2026-04-24 |
 | `runestone/src/content.config.ts` | [pending description] | 2026-04-24 |
 | `runestone/src/components/RadarRow.astro` | [pending description] | 2026-04-24 |
@@ -74,6 +74,7 @@
 | `sanctum/00 Inbox/typescript-component-PressButton-v2-2026-04-26.md` | [removed 2026-04-26] | 2026-04-26 |
 | `sanctum/00 Inbox/accessibility-component-PressButton-v2-2026-04-26.md` | [removed 2026-04-26] | 2026-04-26 |
 | `sanctum/00 Inbox/frontend-component-PressGallery-2026-04-26.md` | [removed 2026-04-26] | 2026-04-26 |
+| `sanctum/00 Inbox/gallery-diagnostic-2026-04-26.md` | [removed 2026-04-26] | 2026-04-26 |
 
 ## 10 Knowledge
 
@@ -103,6 +104,7 @@
 | `sanctum/40 Sources/Design/sessions/typescript-component-PressButton-v2-2026-04-26.md` | [pending description] | 2026-04-26 |
 | `sanctum/40 Sources/Design/sessions/accessibility-component-PressButton-v2-2026-04-26.md` | [pending description] | 2026-04-26 |
 | `sanctum/40 Sources/Design/sessions/frontend-component-PressGallery-2026-04-26.md` | [pending description] | 2026-04-26 |
+| `sanctum/40 Sources/Design/sessions/gallery-diagnostic-2026-04-26.md` | [pending description] | 2026-04-26 |
 | `sanctum/40 Sources/React/Concepts/React - Component Model, Props, and State.md` | [pending description] | 2026-04-25 |
 | `sanctum/40 Sources/React/Concepts/React - Composition, Lifting State, and Controlled vs Uncontrolled.md` | [pending description] | 2026-04-25 |
 | `sanctum/40 Sources/React/Concepts/React - Concurrent React, Suspense, and Transitions.md` | [pending description] | 2026-04-25 |

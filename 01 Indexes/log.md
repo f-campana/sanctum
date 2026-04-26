@@ -25,3 +25,4 @@
 ## [2026-04-26] wiki/index-rebuild | [3 added, 0 modified, 4 removed] · session: phase-1-pressbutton-v1-archive
 ## [2026-04-26] wiki/index-rebuild | [0 added, 1 modified, 0 removed] · session: phase-1-codex-component-architecture-rule
 ## [2026-04-26] wiki/index-rebuild | [5 added, 3 modified, 3 removed] · session: phase-1-pressbutton-v2
+## [2026-04-26] wiki/index-rebuild | [2 added, 1 modified, 1 removed] · session: phase-1-press-gallery-component

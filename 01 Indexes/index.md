@@ -112,6 +112,7 @@
 | `sanctum/40 Sources/Design/sessions/react-component-PressButtonLink-2026-05-01.md` | Documents native anchor PressButtonLink implementation | 2026-05-01 |
 | `sanctum/40 Sources/Design/sessions/accessibility-component-PressButtonLink-2026-05-01.md` | Validates PressButtonLink native link accessibility | 2026-05-01 |
 | `sanctum/40 Sources/Design/sessions/pressbuttonlink-v2-loop-2026-05-01.md` | Records PressButtonLink loop failure, fixes, and pass status | 2026-05-01 |
+| `sanctum/40 Sources/Design/sessions/component-architecture-pivot-2026-04-26.md` | [pending description] | 2026-05-02 |
 | `sanctum/40 Sources/React/Concepts/React - Component Model, Props, and State.md` | Explains React props, state ownership, and component identity | 2026-04-25 |
 | `sanctum/40 Sources/React/Concepts/React - Composition, Lifting State, and Controlled vs Uncontrolled.md` | Explains React composition, lifted state, and controlled APIs | 2026-04-25 |
 | `sanctum/40 Sources/React/Concepts/React - Concurrent React, Suspense, and Transitions.md` | Explains concurrent scheduling, Suspense boundaries, and transitions | 2026-04-25 |

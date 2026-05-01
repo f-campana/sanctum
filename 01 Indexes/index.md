@@ -23,7 +23,7 @@
 
 | File | Description | Updated |
 |---|---|---|
-| `bifrost/CODEX.md` | Defines system operating rules and canonical boot context | 2026-04-26 |
+| `bifrost/CODEX.md` | Defines system operating rules and canonical boot context | 2026-05-02 |
 | `bifrost/skills/frontend/frontend-component/SKILL.md` | Produces static Astro components from Design Contracts | 2026-04-26 |
 | `bifrost/skills/frontend/frontend-island/SKILL.md` | Produces hydrated React islands for Press interactions | 2026-04-24 |
 | `bifrost/skills/github/github-read-file/SKILL.md` | Reports exact on-disk file content to Inbox | 2026-04-23 |

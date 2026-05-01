@@ -32,3 +32,4 @@
 ## [2026-05-01] wiki/index-rebuild | [0 added, 5 modified, 0 removed] · session: phase-1-base-ui-package-migration
 ## [2026-05-01] wiki/index-rebuild | [0 added, 1 modified, 0 removed] · session: phase-1-index-description-pass
 ## [2026-05-02] wiki/index-rebuild | [1 added, 0 modified, 0 removed] · session: phase-1-architecture-pivot-session-summary
+## [2026-05-02] wiki/index-rebuild | [0 added, 1 modified, 0 removed] · session: phase-1-ralph-loop-goal-template

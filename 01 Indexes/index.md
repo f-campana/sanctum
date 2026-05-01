@@ -29,8 +29,8 @@
 | `bifrost/skills/github/github-read-file/SKILL.md` | [pending description] | 2026-04-23 |
 | `bifrost/skills/github/github-read-diff/SKILL.md` | [pending description] | 2026-04-23 |
 | `bifrost/skills/typescript/typescript-component/SKILL.md` | [pending description] | 2026-04-25 |
-| `bifrost/skills/react/react-component/SKILL.md` | [pending description] | 2026-04-26 |
-| `bifrost/skills/accessibility/accessibility-component/SKILL.md` | [pending description] | 2026-04-26 |
+| `bifrost/skills/react/react-component/SKILL.md` | [pending description] | 2026-05-01 |
+| `bifrost/skills/accessibility/accessibility-component/SKILL.md` | [pending description] | 2026-05-01 |
 | `bifrost/skills/wiki/wiki-index-rebuild/SKILL.md` | [pending description] | 2026-04-23 |
 
 ## Runestone
@@ -39,7 +39,7 @@
 |---|---|---|
 | `runestone/DESIGN_RUNESTONE.md` | [pending description] | 2026-04-25 |
 | `runestone/index.html` | [removed 2026-04-24] | 2026-04-24 |
-| `runestone/package.json` | [pending description] | 2026-04-26 |
+| `runestone/package.json` | [pending description] | 2026-05-01 |
 | `runestone/tsconfig.json` | [pending description] | 2026-04-26 |
 | `runestone/.gitignore` | [pending description] | 2026-04-26 |
 | `runestone/README.md` | [pending description] | 2026-04-24 |

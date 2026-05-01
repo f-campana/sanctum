@@ -29,3 +29,4 @@
 ## [2026-04-26] wiki/index-rebuild | [0 added, 1 modified, 0 removed] · session: phase-1-css-layer-cascade-fix
 ## [2026-04-26] wiki/index-rebuild | [1 added, 1 modified, 1 removed] · session: phase-1-diagnostic-cleanup
 ## [2026-05-01] wiki/index-rebuild | [4 added, 2 modified, 3 removed] · session: phase-1-pressbuttonlink-v2-final
+## [2026-05-01] wiki/index-rebuild | [0 added, 5 modified, 0 removed] · session: phase-1-base-ui-package-migration

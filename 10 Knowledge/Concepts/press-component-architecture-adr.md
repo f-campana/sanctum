@@ -51,7 +51,7 @@ and `LinkButton` (renders `<a>`). No asChild. No polymorphism via Slot.
 The most mature implementation in the set made the explicit decision to
 split rather than polymorph.
 
-**Base UI Button** — `@base-ui-components/react`. ~55 lines. Uses
+**Base UI Button** — `@base-ui/react`. ~55 lines. Uses
 `useButton` and `useRenderElement` internally, exposing
 `focusableWhenDisabled` and `nativeButton` as first-class props. All
 mergeProps, ref merging, and data-* conversion absorbed internally. The
@@ -92,7 +92,7 @@ names is less elegant. It is more correct and more legible.
 
 ### D2 — Base UI is the default behavioral primitive layer.
 
-All interactive components use `@base-ui-components/react` as the
+All interactive components use `@base-ui/react` as the
 behavioral primitive unless a specific exception is recorded in this
 ADR. Not react-aria hooks. Not react-aria-components. Not Radix UI
 primitives.
@@ -281,7 +281,7 @@ Every Press component follows this structure:
 // In RSC frameworks: add 'use client' here.
 // In Astro: hydration is handled by client:* on the page, not here.
 
-import { [Primitive] as [Primitive]Primitive } from '@base-ui-components/react/[primitive]'
+import { [Primitive] as [Primitive]Primitive } from '@base-ui/react/[primitive]'
 import { cva, type VariantProps } from 'class-variance-authority'
 import { cn } from '@/lib/utils'
 

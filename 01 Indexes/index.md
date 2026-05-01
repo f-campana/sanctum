@@ -48,12 +48,14 @@
 | `runestone/src/components/RuneHero.astro` | Renders Rune identity hero and metadata panel | 2026-04-24 |
 | `runestone/src/components/PressLayout.astro` | Provides Press shell, fonts, styles, and navigation | 2026-04-25 |
 | `runestone/astro.config.mjs` | Configures Astro React integration, Tailwind, and aliases | 2026-04-26 |
-| `runestone/src/pages/runes/[slug].astro` | Builds static Rune pages with radar, gallery, content | 2026-04-26 |
+| `runestone/src/pages/runes/[slug].astro` | Builds static Rune pages with radar, gallery, content | 2026-05-02 |
 | `runestone/src/styles/press-tailwind.css` | Maps Press tokens into Tailwind theme aliases | 2026-04-25 |
 | `runestone/src/components/PressButton.tsx` | Implements Press button primitive with CVA variants | 2026-05-01 |
 | `runestone/src/components/PressButtonLink.tsx` | Implements link variant sharing Press button styles | 2026-05-01 |
 | `runestone/src/lib/utils.ts` | Merges clsx class values through tailwind-merge | 2026-04-26 |
 | `runestone/src/components/PressGallery.astro` | Displays live Press button variants and states | 2026-04-26 |
+| `runestone/src/pages/runes/press/spec.astro` | [pending description] | 2026-05-02 |
+| `runestone/src/components/PressCommandBar.astro` | [pending description] | 2026-05-02 |
 
 ## 00 Inbox
 

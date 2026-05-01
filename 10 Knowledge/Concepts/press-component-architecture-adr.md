@@ -114,6 +114,7 @@ variant definitions, Tailwind class composition.
 **Exceptions:** react-aria hooks may be used when no Base UI primitive
 covers the use case. Any exception must be documented here with the
 specific reason. The exception does not become a default.
+When no Base UI primitive exists, use the native HTML element directly. Document the gap in the run report and check for a Base UI update before building the next version of the component. PressButtonLink is the first application of this exception — it renders a native <a> because @base-ui/react has no Anchor primitive at v1.4.1.
 
 ---
 

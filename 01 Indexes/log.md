@@ -37,3 +37,4 @@
 ## [2026-05-02] wiki/index-rebuild | [1 added, 1 modified, 0 removed] · session: phase-1-spec-prose-styles
 ## [2026-05-02] wiki/index-rebuild | [0 added, 1 modified, 0 removed] · session: phase-1-shiki-monochrome
 ## [2026-05-02] wiki/index-rebuild | [1 added, 0 modified, 0 removed] · session: phase-1-frontend-harvest
+## [2026-05-02] wiki/index-rebuild | [0 added, 4 modified, 0 removed] · session: phase-1-frontend-harvest-encoding

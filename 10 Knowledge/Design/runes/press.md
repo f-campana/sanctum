@@ -481,6 +481,7 @@ following are present:
 - [ ] Multiple font weights of DM Sans beyond 300 / 400 / 500 → remove heavier weights
 - [ ] Display text clamp value exceeding 4vw for a single-word headline → reduce to clamp(32px, 4vw, 64px) and add overflow: hidden to the container
 - [ ] Press CSS reset (* { padding: 0; margin: 0 }) placed outside @layer base → wrap in @layer base so Tailwind utilities override it correctly
+- [ ] Syntax-highlighted markdown code blocks render with third-party theme colours or dark backgrounds → override Shiki/rehype code colours to `var(--pr-text)` and neutral Press surfaces before delivery
 
 ## 11 — Routing
 

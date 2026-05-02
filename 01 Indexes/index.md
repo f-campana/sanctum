@@ -24,7 +24,7 @@
 | File | Description | Updated |
 |---|---|---|
 | `bifrost/CODEX.md` | Defines system operating rules and canonical boot context | 2026-05-02 |
-| `bifrost/skills/frontend/frontend-component/SKILL.md` | Produces static Astro components from Design Contracts | 2026-04-26 |
+| `bifrost/skills/frontend/frontend-component/SKILL.md` | Produces static Astro components from Design Contracts | 2026-05-02 |
 | `bifrost/skills/frontend/frontend-island/SKILL.md` | Produces hydrated React islands for Press interactions | 2026-04-24 |
 | `bifrost/skills/github/github-read-file/SKILL.md` | Reports exact on-disk file content to Inbox | 2026-04-23 |
 | `bifrost/skills/github/github-read-diff/SKILL.md` | Reports structured git diffs for one repository | 2026-04-23 |
@@ -90,7 +90,7 @@
 |---|---|---|
 | `sanctum/10 Knowledge/Concepts/press-component-architecture-adr.md` | Defines Press component architecture decisions and evidence | 2026-05-01 |
 | `sanctum/10 Knowledge/Concepts/system-glossary.md` | Defines canonical system vocabulary and naming rules | 2026-04-23 |
-| `sanctum/10 Knowledge/Design/runes/press.md` | Defines Press Rune identity, tokens, motion, components | 2026-04-25 |
+| `sanctum/10 Knowledge/Design/runes/press.md` | Defines Press Rune identity, tokens, motion, components | 2026-05-02 |
 
 ## 40 Sources
 

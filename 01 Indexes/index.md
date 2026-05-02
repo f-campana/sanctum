@@ -32,6 +32,7 @@
 | `bifrost/skills/react/react-component/SKILL.md` | Produces Base UI React components using CVA variants | 2026-05-01 |
 | `bifrost/skills/accessibility/accessibility-component/SKILL.md` | Validates interactive component accessibility and Base UI integration | 2026-05-01 |
 | `bifrost/skills/wiki/wiki-index-rebuild/SKILL.md` | Updates indexed changed files and appends session log | 2026-04-23 |
+| `bifrost/skills/frontend/frontend-prose-route/SKILL.md` | [pending description] | 2026-05-02 |
 
 ## Runestone
 
@@ -84,6 +85,7 @@
 | `sanctum/00 Inbox/pressbuttonlink-v2-loop-2026-05-01.md` | [removed 2026-05-01] | 2026-05-01 |
 | `sanctum/00 Inbox/harvest-frontend-phase-1-2026-05-02.md` | [pending description] | 2026-05-02 |
 | `sanctum/00 Inbox/frontend-component-PressGallery-refactor-2026-05-02.md` | [pending description] | 2026-05-02 |
+| `sanctum/00 Inbox/frontend-prose-route-skill-creation-2026-05-02.md` | [pending description] | 2026-05-02 |
 
 ## 10 Knowledge
 

@@ -56,6 +56,7 @@
 | `runestone/src/components/PressGallery.astro` | Displays live Press button variants and states | 2026-04-26 |
 | `runestone/src/pages/runes/press/spec.astro` | [pending description] | 2026-05-02 |
 | `runestone/src/components/PressCommandBar.astro` | [pending description] | 2026-05-02 |
+| `runestone/src/styles/press-prose.css` | [pending description] | 2026-05-02 |
 
 ## 00 Inbox
 
@@ -81,6 +82,7 @@
 | `sanctum/00 Inbox/react-component-PressButtonLink-2026-05-01.md` | [removed 2026-05-01] | 2026-05-01 |
 | `sanctum/00 Inbox/accessibility-component-PressButtonLink-2026-05-01.md` | [removed 2026-05-01] | 2026-05-01 |
 | `sanctum/00 Inbox/pressbuttonlink-v2-loop-2026-05-01.md` | [removed 2026-05-01] | 2026-05-01 |
+| `sanctum/00 Inbox/harvest-frontend-phase-1-2026-05-02.md` | [pending description] | 2026-05-02 |
 
 ## 10 Knowledge
 

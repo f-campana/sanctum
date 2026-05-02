@@ -40,3 +40,4 @@
 ## [2026-05-02] wiki/index-rebuild | [0 added, 4 modified, 0 removed] · session: phase-1-frontend-harvest-encoding
 ## [2026-05-02] wiki/index-rebuild | [1 added, 2 modified, 0 removed] · session: phase-1-pressgallery-single-source
 ## [2026-05-02] wiki/index-rebuild | [2 added, 0 modified, 0 removed] · session: phase-1-frontend-prose-route-skill
+## [2026-05-02] wiki/index-rebuild | [2 added, 2 modified, 1 removed] · session: phase-1-harvest-promotion

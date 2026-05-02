@@ -83,14 +83,16 @@
 | `sanctum/00 Inbox/react-component-PressButtonLink-2026-05-01.md` | [removed 2026-05-01] | 2026-05-01 |
 | `sanctum/00 Inbox/accessibility-component-PressButtonLink-2026-05-01.md` | [removed 2026-05-01] | 2026-05-01 |
 | `sanctum/00 Inbox/pressbuttonlink-v2-loop-2026-05-01.md` | [removed 2026-05-01] | 2026-05-01 |
-| `sanctum/00 Inbox/harvest-frontend-phase-1-2026-05-02.md` | [pending description] | 2026-05-02 |
+| `sanctum/00 Inbox/harvest-frontend-phase-1-2026-05-02.md` | [removed 2026-05-02] | 2026-05-02 |
 | `sanctum/00 Inbox/frontend-component-PressGallery-refactor-2026-05-02.md` | [pending description] | 2026-05-02 |
 | `sanctum/00 Inbox/frontend-prose-route-skill-creation-2026-05-02.md` | [pending description] | 2026-05-02 |
+| `sanctum/00 Inbox/promote-harvest-frontend-phase-1-2026-05-02.md` | [pending description] | 2026-05-02 |
 
 ## 10 Knowledge
 
 | File | Description | Updated |
 |---|---|---|
+| `sanctum/10 Knowledge/Concepts/harvest-frontend-phase-1.md` | Records frontend phase 1 harvest evidence and proposed rules | 2026-05-02 |
 | `sanctum/10 Knowledge/Concepts/press-component-architecture-adr.md` | Defines Press component architecture decisions and evidence | 2026-05-01 |
 | `sanctum/10 Knowledge/Concepts/system-glossary.md` | Defines canonical system vocabulary and naming rules | 2026-04-23 |
 | `sanctum/10 Knowledge/Design/runes/press.md` | Defines Press Rune identity, tokens, motion, components | 2026-05-02 |

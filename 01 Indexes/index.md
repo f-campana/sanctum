@@ -32,7 +32,7 @@
 | `bifrost/skills/react/react-component/SKILL.md` | Produces Base UI React components using CVA variants | 2026-05-01 |
 | `bifrost/skills/accessibility/accessibility-component/SKILL.md` | Validates interactive component accessibility and Base UI integration | 2026-05-01 |
 | `bifrost/skills/wiki/wiki-index-rebuild/SKILL.md` | Updates indexed changed files and appends session log | 2026-04-23 |
-| `bifrost/skills/frontend/frontend-prose-route/SKILL.md` | [pending description] | 2026-05-02 |
+| `bifrost/skills/frontend/frontend-prose-route/SKILL.md` | Produces Rune-scoped Astro prose routes and markdown stylesheets | 2026-05-02 |
 
 ## Runestone
 
@@ -55,9 +55,9 @@
 | `runestone/src/components/PressButtonLink.tsx` | Implements link variant sharing Press button styles | 2026-05-01 |
 | `runestone/src/lib/utils.ts` | Merges clsx class values through tailwind-merge | 2026-04-26 |
 | `runestone/src/components/PressGallery.astro` | Displays live Press button variants and states | 2026-05-02 |
-| `runestone/src/pages/runes/press/spec.astro` | [pending description] | 2026-05-02 |
-| `runestone/src/components/PressCommandBar.astro` | [pending description] | 2026-05-02 |
-| `runestone/src/styles/press-prose.css` | [pending description] | 2026-05-02 |
+| `runestone/src/pages/runes/press/spec.astro` | Builds static Press spec route with gallery and markdown reference | 2026-05-02 |
+| `runestone/src/components/PressCommandBar.astro` | Renders Press command bar composition with status label and action pair | 2026-05-02 |
+| `runestone/src/styles/press-prose.css` | Styles Press markdown reference prose, lists, tables, and code blocks | 2026-05-02 |
 
 ## 00 Inbox
 
@@ -84,9 +84,11 @@
 | `sanctum/00 Inbox/accessibility-component-PressButtonLink-2026-05-01.md` | [removed 2026-05-01] | 2026-05-01 |
 | `sanctum/00 Inbox/pressbuttonlink-v2-loop-2026-05-01.md` | [removed 2026-05-01] | 2026-05-01 |
 | `sanctum/00 Inbox/harvest-frontend-phase-1-2026-05-02.md` | [removed 2026-05-02] | 2026-05-02 |
-| `sanctum/00 Inbox/frontend-component-PressGallery-refactor-2026-05-02.md` | [pending description] | 2026-05-02 |
-| `sanctum/00 Inbox/frontend-prose-route-skill-creation-2026-05-02.md` | [pending description] | 2026-05-02 |
-| `sanctum/00 Inbox/promote-harvest-frontend-phase-1-2026-05-02.md` | [pending description] | 2026-05-02 |
+| `sanctum/00 Inbox/harvest-encoding-2026-05-02.md` | Records Phase 1 harvest encoding into rules, docs, and dead CSS cleanup | 2026-05-02 |
+| `sanctum/00 Inbox/frontend-component-PressGallery-refactor-2026-05-02.md` | Records PressGallery single-source refactor and spec route cleanup | 2026-05-02 |
+| `sanctum/00 Inbox/frontend-prose-route-skill-creation-2026-05-02.md` | Records frontend prose-route skill creation, verification, and indexing | 2026-05-02 |
+| `sanctum/00 Inbox/promote-harvest-frontend-phase-1-2026-05-02.md` | Records harvest-frontend-phase-1 promotion to Knowledge with reference remediation | 2026-05-02 |
+| `sanctum/00 Inbox/index-description-pass-2026-05-02.md` | Records the index description-pass session and resolved rows | 2026-05-02 |
 
 ## 10 Knowledge
 
